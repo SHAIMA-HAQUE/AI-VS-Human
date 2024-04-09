@@ -10,16 +10,16 @@ Methods Tried:
 - Trying a simple approach for text classification which is to convert text passages into vectors and then use standard ML algorithms such as logistic regression or tree-based models
   Instead of using Deep learning methods we can use statistical methods like tf-idf + machine learning algorithms
 
- **Logistic regresssion** model gave a ROC value
-  Average ROC AUC: 0.9976
-  Standard deviation: 0.0005
-
-  On submitting this model to the competition the private score was 0.656879 and the public score was 0.825057
-
-
-  **XGBoost**
-
-  Average ROC AUC: 0.9983
-  Standard deviation: 0.0005
-
-  On submitting this model to the competition the private score was 0.654729 and the public score was 0.781105
+     **Logistic regresssion** model gave a ROC value
+      Average ROC AUC: 0.9976
+      Standard deviation: 0.0005
+    
+      On submitting this model to the competition the private score was 0.656879 and the public score was 0.825057
+    
+    
+      **XGBoost**
+    
+      Average ROC AUC: 0.9983
+      Standard deviation: 0.0005
+    
+      On submitting this model to the competition the private score was 0.654729 and the public score was 0.781105
