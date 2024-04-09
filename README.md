@@ -27,16 +27,18 @@ Methods Tried:
     **Ensemble Learning with Logistic Regression, XGBoost, CatBoost Classifier**
 
     The goal of ensemble methods is to combine the predictions of several base estimators built with a given learning algorithm in order to improve        generalizability/robustness over a single estimator.
-
+```
                   precision    recall  f1-score   support
 
            0       0.99      1.00      0.99      5959
            1       0.99      0.98      0.98      2882
 
     accuracy                           0.99      8841
+
    macro avg       0.99      0.99      0.99      8841
-  weighted avg       0.99      0.99      0.99      8841
+
+weighted avg       0.99      0.99      0.99      8841
 
     Accuracy: 0.9869781000612676
-
+```
    On submitting this model to the competition the private score was 0.656998 and the public score was 0.821040
